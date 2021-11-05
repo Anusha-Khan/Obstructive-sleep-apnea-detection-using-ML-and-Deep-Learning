@@ -1,0 +1,4 @@
+!pip install hrv
+!pip install wfdb
+!pip install biosppy
+!pip instal nummpy, scipy, scikit-learn, csv, keras, mathplotlib,
